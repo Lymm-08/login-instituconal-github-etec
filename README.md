@@ -1,5 +1,3 @@
-Descrição do Projeto
-
 Este projeto é um **guia prático e ilustrado** desenvolvido para auxiliar estudantes da **ETEC** no uso inicial do GitHub.  
 A página apresenta instruções passo a passo sobre:
 
